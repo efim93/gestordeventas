@@ -1,2 +1,3 @@
 # gestordeventas
-Gestor de ventas php
+Gestor de ventas php sin mvc
+Api rest
